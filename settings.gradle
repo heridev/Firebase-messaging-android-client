@@ -1,0 +1,2 @@
+rootProject.name='Lunch and learn demo firebase'
+include ':app'
